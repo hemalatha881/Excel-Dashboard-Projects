@@ -4,11 +4,11 @@ Description
 An Excel dashboard is created to analyze UPI transaction.
 Tools used:
 1.Microsoft Excel
-.pivot tables
-.charts
-.slicers
+2.pivot tables
+3.charts
+4.slicers
 
-Key Analysis
+Key Analysis:
 Transaction status: Success, Failed, Pending, and Refunded
 UPI app performance
 State-wise transactions
