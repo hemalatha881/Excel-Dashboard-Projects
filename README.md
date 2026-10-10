@@ -1,4 +1,5 @@
 UPI TRANSACTION ANALYSIS DASHBOARD
+Retail-Sales-Dashboard
 
 Description
 An Excel dashboard is created to analyze UPI transaction.
@@ -8,10 +9,4 @@ Tools used:
 3.charts
 4.slicers
 
-Key Analysis:
-Transaction status: Success, Failed, Pending, and Refunded
-UPI app performance
-State-wise transactions
-Bank-wise analysis
-Transaction types
-Date and hour-wise trends
+
