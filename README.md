@@ -2,8 +2,6 @@
 
 2.REALMART SALES DASHBOARD
 
-Description
-An Excel dashboard is created to analyze UPI transaction.
 Tools used:
 1.Microsoft Excel
 2.pivot tables
